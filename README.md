@@ -1,2 +1,2 @@
-# OnexiMedina.github.io
-Blog
+<!--- # OnexiMedina.github.io --->
+<!--- Blog --->
