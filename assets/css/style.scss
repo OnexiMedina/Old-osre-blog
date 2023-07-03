@@ -3,13 +3,13 @@
 @import "{{ site.theme }}";
 header {
   img {
-    scale: 50%;
+    scale: 100%;
     max-width: 100%;
   }
   p {
     text-align: center;
   }
   p.view {
-    text-align: center;
+    text-align: left;
   }
 }
