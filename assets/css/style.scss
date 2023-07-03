@@ -1,0 +1,15 @@
+---
+---
+@import "{{ site.theme }}";
+header {
+  img {
+    scale: 50%;
+    max-width: 100%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
+}
